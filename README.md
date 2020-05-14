@@ -1,1 +1,1 @@
-# Computers-Price-prediction-SLR
+# Computers-Price-prediction-MLR
